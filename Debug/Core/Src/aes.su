@@ -1,0 +1,2 @@
+../Core/Src/aes.c:224:13:aesroundkeys	16	static
+../Core/Src/aes.c:246:6:os_aes	56	static

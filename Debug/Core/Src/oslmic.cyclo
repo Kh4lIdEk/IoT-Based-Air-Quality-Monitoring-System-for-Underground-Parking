@@ -1,0 +1,7 @@
+../Core/Src/oslmic.c:36:6:os_init	1
+../Core/Src/oslmic.c:43:10:os_getTime	1
+../Core/Src/oslmic.c:48:12:unlinkjob	3
+../Core/Src/oslmic.c:59:6:os_clearCallback	2
+../Core/Src/oslmic.c:66:6:os_setCallback	2
+../Core/Src/oslmic.c:81:6:os_setTimedCallback	3
+../Core/Src/oslmic.c:103:6:os_runloop	5
